@@ -31,12 +31,11 @@ Here's a walkthrough of implemented user stories:
 ![](https://i.imgur.com/LWA4Kuc.gif)
 
 
-
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+There were no challenges with building this app.
 
 ## License
 
